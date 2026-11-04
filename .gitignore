@@ -1,0 +1,9 @@
+.venv_p1/
+.venv_p2/
+.venv_p3/
+.venv_p4/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
